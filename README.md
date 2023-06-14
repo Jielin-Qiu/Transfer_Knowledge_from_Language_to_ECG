@@ -78,4 +78,4 @@ Please view the `config.py` file in tandem and customize as necessary.
 
 ### Contact
 
-If you have any question, please contact willhan327@outlook.com, jielinq@andrew.cmu.edu.
+If you have any question, please contact wjhan@andrew.cmu.edu, jielinq@andrew.cmu.edu.
