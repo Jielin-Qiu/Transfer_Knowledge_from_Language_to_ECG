@@ -31,13 +31,6 @@ Use the script ecg_extract_features.ipynb
 
 (Note the current data is based on the PTB-XL database).
 
-## Processed Data: 
-
-The preprocessed data can be found in the google drive: 
-
-600 ECG Features Data: https://drive.google.com/file/d/1EtCuV7rkfAw7RQfNFg4tfmdrk1vg4Uev/view?usp=sharing
-
-864 ECG Features Data: https://drive.google.com/file/d/1ooYhm3GAiCCRdgVh8mvCNkxQTsyDlRTh/view?usp=sharing
 
 ## Set up Environment
 
